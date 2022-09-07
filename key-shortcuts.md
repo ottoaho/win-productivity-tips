@@ -1,18 +1,20 @@
 
 ### Legend
-|     |         |
-|-----|---------|
-| `^` | `Ctrl ` |
-| `!` | `Alt`   |
-| `⇧` | `Shift` |
-| `⏎` | `Enter` |
-| `⇥` | `Tab`   |
+|     |             |
+|-----|-------------|
+| `^` | `Ctrl `     |
+| `!` | `Alt`       |
+| `⇧` | `Shift`     |
+| `⏎` | `Enter`     |
+| `⇥` | `Tab`       |
+| `⌫` | `Backspace` |
 
 
-# Windows
-|       |             |                    |
-|-------|-------------|--------------------|
-| `! ⇥` | `Alt + Tab` | Switch app windows |
+# Windows / Universal
+|       |                    |                    |
+|-------|--------------------|--------------------|
+| `! ⇥` | `Alt + Tab`        | Switch app windows |
+| `^ ⌫` | `Ctrl + Backspace` | Erase word         |
 
 ### Windows key is your friend
 |                |                    |                          |
