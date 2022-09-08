@@ -8,13 +8,14 @@
 | `⏎` | `Enter`     |
 | `⇥` | `Tab`       |
 | `⌫` | `Backspace` |
+| `⌦` | `Delete`    |
 
 
 # Windows / Universal
-|       |                    |                    |
-|-------|--------------------|--------------------|
-| `! ⇥` | `Alt + Tab`        | Switch app windows |
-| `^ ⌫` | `Ctrl + Backspace` | Erase word         |
+|         |                           |                    |
+|---------|---------------------------|--------------------|
+| `! ⇥`   | `Alt + Tab`               | Switch app windows |
+| `^ ⌫/⌦` | `Ctrl + Backspace/Delete` | Erase word         |
 
 ### Windows key is your friend
 |                |                    |                          |
